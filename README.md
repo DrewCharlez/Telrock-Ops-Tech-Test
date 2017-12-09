@@ -1,5 +1,7 @@
 
-Cloud; 
+Cloud; due to the fast delivery of devops 
+Reduce the cost of hardware in data centers
+Scalability server capacity will vary according to traffic provisiong 
 
 
 
@@ -10,7 +12,7 @@ When Devs commit code an auto build is triggered and automatically deployed on a
 Its improving the consistence, quality and efficency of software and infrastructure.
 
 
-Site Reliability engineering; They are the core of the infrastructure and respond to all incidents. The are involved in all aspects of the infrustructure from operations, capacity planning, software development. 
+Site Reliability engineering; They are the core of the infrastructure and respond to all incidents. The are involved in all aspects of the infrustructure from operations, capacity planning and software development. 
 
 I'm open to being involved in all aspects of infrustructure, however the below will be of intrest to me:
 Web technologies
