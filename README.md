@@ -13,8 +13,13 @@ Site Reliability engineering; Failures can easily be rolled back to previous ver
 I'm open to being involved in all aspects of infrustructure, however the below will be of intrest to me:
 Web technologies
 Create and mantain automated tools used in deployment 
-Coding and scripting for routine task
+Coding and scripting for automating routine task
 System administration of Linux environments
-System monitoring 
+System monitoring
+Support cloud/virtualised infrastructure
+CI/CD pipe
+
+
+
 
 
