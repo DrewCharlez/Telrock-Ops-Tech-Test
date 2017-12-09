@@ -42,10 +42,4 @@ CI/CD pipelines set up of continuos integration and delivery
 
 
 
-
-
-
-
-
-
-here ....
+here ..
