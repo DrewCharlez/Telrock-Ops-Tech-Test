@@ -1,5 +1,6 @@
-Provisioning
-Cloud 
+
+Cloud: 
+
 Infrastructure automation; Having tasks executed via automation tools is allowing Ops engineers to manage configuration and deployment on multiple servers automatically, this achieves faster delivery of features, faster resoultion of problems and gives Ops engineers more time to innovate rather than fix and mantain.
 
 Orchestration; 
@@ -9,7 +10,8 @@ When Devs commit code an auto build is triggered and automatically deployed on a
 Its improving the consistence, quality and efficency of software and infrastructure.
 
 
-Site Reliability engineering; Failures can easily be rolled back to previous versions
+Site Reliability engineering;  Failures can easily be rolled back to previous versions
+
 I'm open to being involved in all aspects of infrustructure, however the below will be of intrest to me:
 Web technologies
 Create and mantain automated tools used in deployment 
