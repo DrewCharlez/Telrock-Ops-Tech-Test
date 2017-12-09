@@ -17,7 +17,7 @@ Coding and scripting for automating routine task
 System administration of Linux environments
 System monitoring
 Support cloud/virtualised infrastructure
-CI/CD pipe
+CI/CD pipelines creating and managing of jobs and plugins
 
 
 
