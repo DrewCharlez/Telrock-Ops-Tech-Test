@@ -1,9 +1,6 @@
 
 Cloud; is the go to service platform for operations of businesses supported by Ops engineers, due to the fast delivery of software features, continous integration, automation deployment and faster resolution to problem solving a fast implemention of computing resources is always required, and cloud techology provides this by means of scalability, the provisioning of server capacity according to traffic
-
-
 Reduce the cost of hardware in data centers
-Scalability server capacity will vary according to traffic provisiong 
 
 
 
