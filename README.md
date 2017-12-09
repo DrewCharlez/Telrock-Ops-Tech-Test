@@ -16,26 +16,4 @@ Coding and scripting for automating routine task
 System administration of Linux environments
 System monitoring
 Support cloud/virtualised infrastructure
-CI/CD pipelines set up of continuos integration and delivery
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-here ..
+CI/CD pipelines set up of continuos integration and deliver
