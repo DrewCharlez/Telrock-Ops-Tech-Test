@@ -10,7 +10,7 @@ When Devs commit code an auto build is triggered and automatically deployed on a
 Its improving the consistence, quality and efficency of software and infrastructure.
 
 
-Site Reliability engineering; They are the core of the infrastructure and respond to incidents.thier core mission 
+Site Reliability engineering; They are the core of the infrastructure and respond to all incidents. The are involved in all aspects of the infrustructure from operations, capacity planning, software development. 
 
 I'm open to being involved in all aspects of infrustructure, however the below will be of intrest to me:
 Web technologies
