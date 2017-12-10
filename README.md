@@ -1,6 +1,6 @@
 Cloud; is the go to service platform for operations of businesses supported by Ops engineers, due to the fast delivery of software features, continous integration, automation deployment and faster resolution to problem solving a fast implemention of computing resources is always required, and cloud techology provides this by means of scalability, the provisioning of server capacity according to traffic.
 This has reduced the time it takes to make resources available and cut cost of hardware and allow you to pay for what you use at increased speed.
-With requirements changing frequently cloud provides you with flexibility, control and management
+With requirements changing frequently cloud provides you with flexibility, control and management.
 
 Infrastructure automation; Having tasks executed via automation tools is allowing Ops engineers to manage configuration and deployment on multiple servers automatically, this achieves faster delivery of features, faster resoultion of problems and gives Ops engineers more time to innovate rather than fix and mantain. 
 
@@ -12,10 +12,14 @@ Reliability is also good here as in the circumstances of failure, you can easily
 Site Reliability engineering; My undestanding of this role is that they are the core of the infrastructure and respond to all incidents. The are involved in all aspects of the infrustructure from operations, capacity planning and software development. 
 
 I'm open to being involved in all aspects of infrustructure, however the below will be of intrest to me:
-Web technologies
+Web technologies;
+nginx LAMP
 Create and mantain automated tools used in deployment 
 Coding and scripting for automating routine task
 System administration of Linux environments
 System monitoring
 Support cloud/virtualised infrastructure
-CI/CD pipelines set up of continuos integration and deliver
+Set up of continuos integration and deliver pipelines
+Trouble shooting and analysis of issues
+Documentation write up
+
