@@ -9,7 +9,8 @@ When Devs commit code an auto build is triggered and automatically deployed on a
 Its improving the consistence, quality and efficency of software and infrastructure. 
 Reliability is also good here as in the circumstances of failure, you can easily roll back to previous stable version
 
-Site Reliability engineering; My undestanding of this role is that they are the core of the infrastructure and respond to all incidents. The are involved in all aspects of the infrustructure from operations, capacity planning and software development. 
+Site Reliability Engineering; My undestanding of this role is that they are the core of the infrastructure and respond to all incidents. Their primary focus is reliability of services such as system uptime,  
+are involved in all aspects of the infrustructure from operations, capacity planning and software development. 
 
 I'm open to being involved in all aspects of infrustructure, however the below will be of intrest to me:
 Web technologies;
