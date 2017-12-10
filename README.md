@@ -22,8 +22,12 @@ They are also there to improve the communication and collaboration of teams invo
 SRE do not only focus on intenal infrustructure needs and imporovements they also deal with the end users requirements, understanding thier needs and how best to cater to them.
 I will like to finish this off by saying SRE's work with individual groups to analysis and establish what works well best for them and then emphasis on that to achive goals. 
 
-Container Technologies; Its easier to create deploy and run applications by using container technologies like docker as it allows for a consistance computing environment throught development process
+Container Technologies; Its easier to create, deploy and run applications by using container technologies like docker as it allows for consistency in a computing environment through out the development process.
+In the past applications which worked in a developers environment but failed to work in a test or production environment
+no longer occurs as containers provide an envirmnet of consistency.
+Applications become easier to build and maintain when they are broken down into smaller services
 
+what I would like to be involved in;
 I'm open to being involved in all aspects of infrustructure, however the below will be of intrest to me:
 Web technologies;
 nginx LAMP
@@ -36,3 +40,4 @@ Set up of continuos integration and deliver pipelines
 Trouble shooting and analysis of issues
 Documentation write up
 Storage management
+Network management 
