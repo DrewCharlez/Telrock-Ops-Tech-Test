@@ -22,4 +22,4 @@ Support cloud/virtualised infrastructure
 Set up of continuos integration and deliver pipelines
 Trouble shooting and analysis of issues
 Documentation write up
-
+Storage management
