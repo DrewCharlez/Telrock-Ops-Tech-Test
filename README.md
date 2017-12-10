@@ -17,9 +17,11 @@ Reliability is also good here as in the circumstances of failure, you can easily
 Site Reliability Engineering; My undestanding of this role is that they are the core of the infrastructure and respond to all incidents.  
 They are involved in all aspects of the infrustructure from operations, capacity planning, design review and software development.
 Their primary focus is reliability of services and collaboration and communication of all teams. 
+
 Just to emphasis, When I say reliability of services I mean system uptime, release velocity, performance tuning and security.
 They are also there to improve the communication and collaboration of teams involved in the infrastructures up keep.
 SRE do not only focus on intenal infrustructure needs and imporovements they also deal with the end users requirements, understanding thier needs and how best to cater to them.
+
 I will like to finish this off by saying SRE's work with individual groups to analysis and establish what works well best for them and then emphasis on that to achive goals. 
 
 Container Technologies; Its easier to create, deploy and run applications by using container technologies like docker as it allows for consistency in a computing environment through out the development process.
@@ -30,8 +32,8 @@ Applications become easier to build and maintain when they are broken down into 
 what I would like to be involved in;
 I'm open to being involved in all aspects of infrustructure, however the below will be of intrest to me:
 Web technologies;
-nginx LAMP
-Create and mantain automated tools used in deployment 
+configuration of systems to host websites; nginx apache 
+Create and mantain automated tools used in deployment;
 Coding and scripting for automating routine task
 System administration of Linux environments
 System monitoring
@@ -41,3 +43,4 @@ Trouble shooting and analysis of issues
 Documentation write up
 Storage management
 Network management 
+
