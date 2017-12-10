@@ -12,7 +12,7 @@ This has permitted Devs to release code more often and with more confidence.
 When Devs commit code an auto build is triggered and automatically deployed on a test environment.
 If the test shows a bug devs can check the last commit to apply a fix, this is allowing for faster delivery of software and resolution of problems as the Devs will always be provided feedback on commited code.
 Its improving the consistence, quality and efficency of software and infrastructure. 
-Reliability is also good here as in the circumstances of failure, you can easily roll back to previous stable version
+Reliability is also good here as in the circumstance of failure, you can easily roll back to previous stable version
 
 Site Reliability Engineering; My undestanding of this role is that they are the core of the infrastructure and respond to all incidents.  
 They are involved in all aspects of the infrustructure from operations, capacity planning, design review and software development.
@@ -29,10 +29,16 @@ In the past applications which worked in a developers environment but failed to 
 no longer occurs as containers provide an envirmnet of consistency.
 Applications become easier to build and maintain when they are broken down into smaller services
 
+
+Version control tools such as Git and CVS;
+Has allowed engineers and developers to collaborate on projects frequently across the company without the need for constantly transfering files over the network.
+Version control tools is a good way of enabling better communication, mantaining versions and tracking changes made to codes across teams.
+It also allows people to work independently on code and then merge them together, this is a really great tool.
+
 what I would like to be involved in;
 I'm open to being involved in all aspects of infrustructure, however the below will be of intrest to me:
-Web technologies;
-configuration of systems to host websites; nginx apache 
+Web technologies; nginx apache
+configuration of systems to host websites
 Create and mantain automated tools used in deployment;
 Coding and scripting for automating routine task
 System administration of Linux environments
