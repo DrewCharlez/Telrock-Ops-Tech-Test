@@ -5,6 +5,7 @@ With requirements changing frequently cloud provides you with flexibility, contr
 
 Infrastructure automation; Having tasks executed via automation tools is allowing Ops engineers to manage configuration and deployment on multiple servers automatically. 
 This achieves faster delivery of features, faster resoultion of problems and gives Ops engineers more time to innovate rather than fix and mantain. 
+Maintaining mutiple server configurations manually is time consuming and will defeat the object of fast delivery of features
 
 CI/CD Pipelines; The development practice of requiring developers to frequently integrate code in to a shared repo such as GIt and then fetched from a continous integration tool like jenkins.
 This has permitted Devs to release code more often and with more confidence.
@@ -16,10 +17,13 @@ Reliability is also good here as in the circumstances of failure, you can easily
 Site Reliability Engineering; My undestanding of this role is that they are the core of the infrastructure and respond to all incidents.  
 They are involved in all aspects of the infrustructure from operations, capacity planning, design review and software development.
 Their primary focus is reliability of services and collaboration and communication of all teams. 
-Just to emphasis, When I say reliability of services I mean system uptime, release velocity, performance tuning.
+Just to emphasis, When I say reliability of services I mean system uptime, release velocity, performance tuning and security.
 They are also there to improve the communication and collaboration of teams involved in the infrastructures up keep.
-SRE do not only focus on intenal infrustructure needs and imporovements they also deal with the end users, understanding thier needs and how best to cater to them.
-I will add to this by saying SRE's what works well and then emphasis 
+SRE do not only focus on intenal infrustructure needs and imporovements they also deal with the end users requirements, understanding thier needs and how best to cater to them.
+I will like to finish this off by saying SRE's work with individual groups to analysis and establish what works well best for them and then emphasis on that to achive goals. 
+
+Container Technologies; Its easier to create deploy and run applications by using container technologies like docker as it allows for a consistance computing environment throught development process
+
 I'm open to being involved in all aspects of infrustructure, however the below will be of intrest to me:
 Web technologies;
 nginx LAMP
